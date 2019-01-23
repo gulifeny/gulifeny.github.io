@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "울애깅 앙앙앙!!"
+title                    : "archer blog"
 title_separator          : "-"
 name                     : "archer"
 description              : "archer's blog"
@@ -285,7 +285,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: foo
     values:
       layout: single
       author_profile: true
@@ -293,3 +293,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+
+
+

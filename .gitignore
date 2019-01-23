@@ -44,6 +44,7 @@ package.json
 
 
 ### Logs and Databases ###
+*.txt
 *.log
 *.sql
 *.sqlite
